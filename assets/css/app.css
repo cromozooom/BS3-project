@@ -8078,3 +8078,28 @@ a.navbar-brand small {
 .navbar-inverse .navbar-toggle {
   border-color: transparent;
 }
+
+.headMaterial {
+  margin-top: 0;
+  padding: 5em 0 2em 0;
+}
+
+.headMaterial-whitepaper {
+  background: #d7f0db;
+}
+
+.headMaterial-webinar {
+  background: #d7f0db;
+}
+
+.headMaterial-howTo {
+  background: #d7f0db;
+}
+
+.description {
+  padding-top: 2em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
